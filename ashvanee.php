@@ -83,7 +83,7 @@ function push_notification_android($device_id, $title, $message){
  
     /*api_key available in:
     Firebase Console -> Project Settings -> CLOUD MESSAGING -> Server key*/    
-	$api_key = 'AAAAGfllm_Q:APA91bFnn0vuIA1G67o83VNG8Vz_ZW6EoJdRdd-CRXmLCKuGNhFjjYhe3LN-XS-qwQSAoisenhHiFABA2QF44B9L0v3b7_WNoO7A8KZBsyXTh-dR8iTg6jmbmMZBRiZaeMH_IfcRlgOq'; //Replace with yours
+	$api_key = 'xxxxxxxxxxxxxxxxxxx'; //Replace with yours
 	
 	$target = $device_id;
 	
